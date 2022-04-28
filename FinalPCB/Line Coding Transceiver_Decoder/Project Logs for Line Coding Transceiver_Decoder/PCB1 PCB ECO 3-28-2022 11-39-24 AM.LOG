@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=GND Pin=R4-1
+Removed Pin From Net: NetName=NetQ2_2 Pin=R4-2
+Removed Pin From Net: NetName=6V Pin=R6-2
+Removed Pin From Net: NetName=6V Pin=R19-2
+Removed Member From Class: ClassName=Sheet1 Member=R4
+Removed Member From Class: ClassName=Sheet1 Member=R6
+Removed Member From Class: ClassName=Sheet1 Member=R19
+Added Pin To Net: NetName=GND Pin=P3-2
+Added Pin To Net: NetName=GND Pin=P4-2
+Added Pin To Net: NetName=GND Pin=P6-2
+Added Pin To Net: NetName=6V Pin=Q1-3
+Added Pin To Net: NetName=6V Pin=Q4-3
+Added Pin To Net: NetName=6V Pin=R8-1
+Added Pin To Net: NetName=Out1 Pin=U3-3

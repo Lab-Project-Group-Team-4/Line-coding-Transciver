@@ -1,0 +1,43 @@
+Removed Pin From Net: NetName=6V Pin=VR1-1
+Removed Pin From Net: NetName=GND Pin=VR1-3
+Removed Pin From Net: NetName=6V Pin=VR2-1
+Removed Pin From Net: NetName=Div1 Pin=VR2-2
+Removed Pin From Net: NetName=GND Pin=VR2-3
+Removed Pin From Net: NetName=6V Pin=VR5-1
+Removed Pin From Net: NetName=GND Pin=VR5-3
+Removed Member From Class: ClassName=Sheet1 Member=VR5
+Change Component Footprint: Designator=VR1 Old Footprint=BOUR-3362P New Footprint=601010
+Change Component Footprint: Designator=VR2 Old Footprint=BOUR-3362P New Footprint=601010
+Change Component Comment : Designator=VR1 Old Comment=3362P-1-103LF New Comment=601010
+Change Component Comment : Designator=VR2 Old Comment=3362P-1-103LF New Comment=601010
+Change Managed Component Library Link : Designator=VR1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=1B826C0B-3EB1-4A57-B293-6505F4DE2E11 New ItemGUID= Old RevisionGUID=DA474C76-ED9C-4B99-A4A0-654EE1C2010F New RevisionGUID=
+Change Managed Component Library Link : Designator=VR2 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=1B826C0B-3EB1-4A57-B293-6505F4DE2E11 New ItemGUID= Old RevisionGUID=DA474C76-ED9C-4B99-A4A0-654EE1C2010F New RevisionGUID=
+Change component parameters: Designator = "VR1" ("VR1"); Footprint = "BOUR-3362P"; UniqueID = "\QQEDCTJG" ("\QQEDCTJG")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.mouser.co.uk/datasheet/2/40/E_HA06-1649471.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "4.1mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "AVX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "601010"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "581-601010"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/AVX/601010?qs=B6kkDfuK7%2FBVCCegqEP4kw%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VR2" ("VR2"); Footprint = "BOUR-3362P"; UniqueID = "\JCTVCMDH" ("\JCTVCMDH")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.mouser.co.uk/datasheet/2/40/E_HA06-1649471.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "4.1mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "AVX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "601010"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "581-601010"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/AVX/601010?qs=B6kkDfuK7%2FBVCCegqEP4kw%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=VR1-1
+Added Pin To Net: NetName=6V Pin=VR1-3
+Added Pin To Net: NetName=GND Pin=VR2-1
+Added Pin To Net: NetName=6V Pin=VR2-3
+Added Pin To Net: NetName=GND Pin=VR3-1
+Added Pin To Net: NetName=Div1 Pin=VR3-2
+Added Pin To Net: NetName=6V Pin=VR3-3
+Added Pin To Net: NetName=Div3 Pin=P1-3
+Added Pin To Net: NetName=Div3 Pin=VR2-2
+Added Net: Name=Div3
+Added Member To Class: ClassName=Sheet1 Member=Component VR3 601010
