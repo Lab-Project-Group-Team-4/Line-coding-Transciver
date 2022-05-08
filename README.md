@@ -5,4 +5,4 @@ development and implementation of a simplex line coding transceiver based on ana
 and IC’s such as OpAmps, transistors and signal generating ICs. This project aims to accomplish 
 data between two microcontrollers via a pair of twisted wires transmission with a data length of 1000 
 bits at a minimum data rate of 10 kb/s
-[PROJECT REPORT.pdf](https://github.com/Lab-Project-Group-Team-4/Line-coding-Transciver/files/8646799/PROJECT.REPORT.pdf)
+
